@@ -1,13 +1,13 @@
 
 How to easily insert Python charts into Excel and generate professional data visualizations for your work.<br>
 With xlwings, you can run python code in excel without any difficulty at all.<br>
-<br>
+
 Check out the xlwings documentation here: https://docs.xlwings.org/en/stable/matplotlib.html#<br>
-<br>
+
 Import/Install Dependencies &amp; Load Dataset<br>
-<br>
-In [1]:<br>
-<br>
+
+
+
 import xlwings as xw # pip install xlwings --upgrade import pandas as pd # pip install pandas <br>
 <br>
 NOTE: Ensure to use the latest xlwings version to have access the newest features.<br>
